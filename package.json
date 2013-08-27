@@ -18,7 +18,7 @@
   "readmeFilename": "README.md",
   "gitHead": "788f026390f3f9e819515d34b31a071982a087dc",
   "description": "This is a baseline package.json to use on all projects.",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "main": "Gruntfile.js",
   "devDependencies": {},
   "scripts": {
