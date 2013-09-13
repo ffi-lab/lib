@@ -1,0 +1,14 @@
+{
+  "name": "SidebarTransitions",
+  "homepage": "https://github.com/codrops/SidebarTransitions",
+  "_release": "master",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "8b96f9962fae8801395b64320c7eee861c8f2d10"
+  },
+  "_source": "git://github.com/codrops/SidebarTransitions.git",
+  "_target": "*",
+  "_originalSource": "SidebarTransitions",
+  "_direct": true
+}

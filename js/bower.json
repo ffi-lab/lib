@@ -1,0 +1,25 @@
+{
+  "name": "favorites-js",
+  "version": "0.0.0",
+  "authors": [
+    "Eric Rier <eric@fatfreeinteractive.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular-latest": "~1.1.5",
+    "fabric": "~1.2.0",
+    "listjs": "~0.2.1",
+    "snapjs": "*",
+    "phantom": "~1.9.2",
+    "skeuocard": "~1.0.3",
+    "requirejs": "~2.1.8",
+    "backbone": "~1.0.0"
+  }
+}

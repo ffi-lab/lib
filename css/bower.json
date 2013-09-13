@@ -1,0 +1,28 @@
+{
+  "name": "favorites-js",
+  "version": "0.0.0",
+  "authors": [
+    "Eric Rier <eric@fatfreeinteractive.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "animate.css": "~2.1.0",
+    "bootstrap": "~3.0.0",
+    "bootstrap-css": "2.3.2",
+    "bootstrap-modal": "~2.1.0",
+    "modernizr": "~2.6.2",
+    "PageTransitions": "*",
+    "SidebarTransitions": "*",
+    "intuit": "csswizardry/inuit.css#~5.0.0",
+    "fuelux": "~2.3.1",
+    "html5shiv": "~3.6.2",
+    "foundation": "~4.3.1"
+  }
+}
