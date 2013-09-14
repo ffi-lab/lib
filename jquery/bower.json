@@ -1,0 +1,31 @@
+{
+  "name": "favorites-js",
+  "version": "0.0.0",
+  "authors": [
+    "Eric Rier <eric@fatfreeinteractive.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "lazyload": "~2.0.5",
+    "jquery.payment": "~1.0.2",
+    "jquery-placeholder": "~2.0.7",
+    "jquery-backstretch": "~2.0.4",
+    "jquery.scrollTo": "~1.4.6",
+    "in-viewport": "~0.3.0",
+    "jquery": "~2.0.3",
+    "validator": "~0.0.4",
+    "perfect-scrollbar": "~0.4.4",
+    "jquery-anything-slider": "CSS-Tricks/AnythingSlider#~1.9.2"
+  },
+  "resolutions": {
+    "in-viewport": "~0.2.6",
+    "jquery": "~1.9.1"
+  }
+}

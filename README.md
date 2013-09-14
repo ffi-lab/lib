@@ -1,4 +1,4 @@
-lib
-===
+Libraries to use in dev/production
+==================================
 
-Libraries
+Collection of libraries to use in production.
