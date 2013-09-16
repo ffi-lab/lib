@@ -16,10 +16,6 @@
     "google-code-prettify": "~1.0.0",
     "rainbow": "~1.1.9",
     "highlightjs": "~7.3.0",
-    "codemirror": "~3.16.0",
-    "jquery-backstretch": "~2.0.4",
-    "lazyload": "~2.0.5",
-    "jquery-placeholder": "~2.0.7",
-    "jquery.payment": "~1.0.2"
+    "codemirror": "~3.16.0"
   }
 }
