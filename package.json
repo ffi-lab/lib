@@ -1,0 +1,36 @@
+{
+  "name": "ffi-lab-lib",
+  "private": true,
+  "dependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-concat": "~0.1.2",
+    "grunt-contrib-watch": "~0.2.0",
+    "grunt-contrib-mincss": "0.4.0rc7",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-clean": "~0.4.1",
+    "grunt-contrib-sass": "~0.4.0",
+    "grunt-requirejs": "*",
+    "grunt-hub": "0.5.0",
+    "grunt-release": "~0.5.1",
+    "grunt-styleguide": "~0.2.6"
+  },
+  "readmeFilename": "README.md",
+  "gitHead": "788f026390f3f9e819515d34b31a071982a087dc",
+  "description": "This is a baseline package.json to use on all projects.",
+  "version": "0.1.1",
+  "main": "Gruntfile.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://erier@github.com/ffi-lab/lib"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/ffi-lab/lib/issues"
+  }
+}
