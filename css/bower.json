@@ -23,6 +23,7 @@
     "intuit": "csswizardry/inuit.css#~5.0.0",
     "fuelux": "~2.3.1",
     "html5shiv": "~3.6.2",
-    "foundation": "~4.3.1"
+    "foundation": "~4.3.1",
+    "animo.js": "*"
   }
 }
