@@ -13,14 +13,17 @@
     "grunt-requirejs": "*",
     "grunt-hub": "0.5.0",
     "grunt-release": "~0.5.1",
-    "grunt-styleguide": "~0.2.6"
+    "grunt-styleguide": "~0.2.6",
+    "grunt-bg-shell": "~2.1.0"
   },
   "readmeFilename": "README.md",
   "gitHead": "788f026390f3f9e819515d34b31a071982a087dc",
   "description": "This is a baseline package.json to use on all projects.",
   "version": "0.1.1",
   "main": "Gruntfile.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

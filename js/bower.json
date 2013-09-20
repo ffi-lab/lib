@@ -6,6 +6,9 @@
   ],
   "license": "MIT",
   "ignore": [
+  	"DS_Store",
+  	".git",
+  	".gitignore",
     "**/.*",
     "node_modules",
     "bower_components",
@@ -20,6 +23,7 @@
     "phantom": "~1.9.2",
     "skeuocard": "~1.0.3",
     "requirejs": "~2.1.8",
-    "backbone": "~1.0.0"
+    "backbone": "~1.0.0",
+    "d3": "~3.3.4"
   }
 }

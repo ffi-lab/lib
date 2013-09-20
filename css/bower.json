@@ -24,6 +24,7 @@
     "fuelux": "~2.3.1",
     "html5shiv": "~3.6.2",
     "foundation": "~4.3.1",
-    "animo.js": "*"
+    "animo.js": "*",
+    "font-awesome": "~3.2.1"
   }
 }
