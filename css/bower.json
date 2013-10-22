@@ -25,6 +25,7 @@
     "html5shiv": "~3.6.2",
     "foundation": "~4.3.1",
     "animo.js": "*",
-    "font-awesome": "~3.2.1"
+    "font-awesome": "~3.2.1",
+    "suit": "~0.2.0"
   }
 }
